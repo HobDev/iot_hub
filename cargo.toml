@@ -1,0 +1,11 @@
+[package]
+name = "iot_hub"
+version = "0.0.1"
+authors = ["paramjit"]
+license ="MIT/Apache-2.0"
+readme="README.	md"
+description="""
+IOT management software in its pre alpha phase.
+"""
+[dependencies]
+
